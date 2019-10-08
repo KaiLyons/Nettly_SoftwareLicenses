@@ -1,6 +1,12 @@
 Nettly_ Public Source Enterprise License
 NPSEL
 
+DEFINITIONS:
+- Enterprise: Companies that pay for the software
+- Community/Communities: Group of people with no corporate affilation
+- Corporate/Corporations: Group of people in a registered entity recognised
+as a company or corporate (In Example: Inc. LLC. Corp.)
+
 This such software is designed by <COMPANY NAME> for Enterprise use.
 Corporations are allowed to modify, add on, or remove Lines of 
 code in this software for personal use however the distribution
@@ -29,3 +35,7 @@ Limits:
 - Liability
 - NO warrenty
 - NO corporate distribution
+
+Conitions:
+- Trademarks
+- Copyright
